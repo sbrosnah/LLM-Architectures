@@ -1,0 +1,4 @@
+transformers/weights/*
+transformers/tokenizer/*
+transformers/runs/tmodel/*
+**__pycache__**
